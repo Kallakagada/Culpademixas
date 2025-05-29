@@ -118,3 +118,8 @@
 [29May2025 20:01:39.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 joined the game
 [29May2025 20:14:17.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 lost connection: Disconnected
 [29May2025 20:14:17.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 left the game
+[29May2025 20:45:02.585] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f11be05
+[29May2025 20:45:02.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TumaridoTop1[/127.205.204.136:51671] logged in with entity id 3418 at (-51.69999998807907, 65.0, -186.4105010524178)
+[29May2025 20:45:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 joined the game
+[29May2025 20:45:28.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 lost connection: Disconnected
+[29May2025 20:45:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 left the game
