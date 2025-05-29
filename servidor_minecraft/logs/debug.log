@@ -605,3 +605,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29May2025 20:45:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 joined the game
 [29May2025 20:45:28.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 lost connection: Disconnected
 [29May2025 20:45:28.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 left the game
+[29May2025 20:46:15.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 20:46:15.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 20:51:15.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 20:51:15.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
