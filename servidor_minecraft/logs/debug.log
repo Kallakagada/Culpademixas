@@ -1805,3 +1805,30 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:54:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab suffocated in a wall
 [07Jun2025 04:55:41.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 04:55:41.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:57:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Diamonds!]
+[07Jun2025 05:00:41.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 05:00:41.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 05:02:49.147] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=35.00, z=-212.30]]
+[07Jun2025 05:02:53.633] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=28.77, z=-212.30]]
+[07Jun2025 05:02:55.582] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:02:59.726] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:03.421] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:06.576] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:16.671] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:27.720] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:38.971] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:39.930] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:47.372] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:50.927] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:03:54.577] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:04:06.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has reached the goal [Feelingwatched]
+[07Jun2025 05:04:23.279] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:04:37.128] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:04:37.377] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:04:45.227] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:05:09.272] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:05:16.530] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:05:20.626] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:05:33.074] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/19607, l='ServerLevel[world]', x=-312.30, y=26.00, z=-212.30]]
+[07Jun2025 05:05:41.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 05:05:41.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
