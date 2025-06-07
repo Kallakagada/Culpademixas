@@ -214,3 +214,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 03:38:06.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-103, y=76, z=-163} BlockPos{x=-97, y=76, z=-156}
 [07Jun2025 03:39:11.775] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
 [07Jun2025 03:39:11.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
+[07Jun2025 03:47:50.794] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [the_knocker:the_knocker,midnightlurker:midnightlurker,eyesinthedarkness:main,man:man,sackman:main,geckolib3:main,steve_dweller:main,nightmare:main] rejected their client side version number
+[07Jun2025 03:47:50.794] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[07Jun2025 03:47:50.833] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51ee1045[id=<null>,name=ruiz14kr3hab,properties={},legacy=false] (/127.192.126.155:48897) lost connection: Connection closed - mismatched mod channel list

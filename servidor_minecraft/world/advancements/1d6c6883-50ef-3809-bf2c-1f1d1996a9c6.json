@@ -288,6 +288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-06-07 03:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-05-29 19:57:19 +0000"
@@ -360,6 +366,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-06-07 03:42:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-07 03:24:21 +0000"
@@ -375,6 +387,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-07 03:26:08 +0000",
+      "minecraft:enderman": "2025-06-07 03:45:54 +0000",
       "minecraft:zombie": "2025-06-06 20:10:32 +0000"
     },
     "done": false
@@ -391,7 +404,8 @@
       "cooked_beef": "2025-06-07 03:20:45 +0000",
       "beef": "2025-05-29 20:02:10 +0000",
       "rotten_flesh": "2025-06-07 03:27:26 +0000",
-      "cooked_chicken": "2025-06-07 03:31:21 +0000"
+      "cooked_chicken": "2025-06-07 03:31:21 +0000",
+      "carrot": "2025-06-07 03:42:31 +0000"
     },
     "done": false
   },
