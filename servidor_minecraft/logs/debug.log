@@ -1792,3 +1792,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:39:46.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> IJIJIJ
 [07Jun2025 04:40:41.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 04:40:41.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:45:41.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:45:41.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:46:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> TT
+[07Jun2025 04:48:03.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was slain by Alexis
+[07Jun2025 04:48:13.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Suit Up]
+[07Jun2025 04:48:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Isn't It Iron Pick]
+[07Jun2025 04:49:29.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Diamonds!]
+[07Jun2025 04:50:41.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:50:41.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:52:09.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Monster Hunter]
+[07Jun2025 04:54:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab suffocated in a wall
+[07Jun2025 04:55:41.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:55:41.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
