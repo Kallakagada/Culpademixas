@@ -1,0 +1,15 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-06-07 04:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-06-07 04:07:38 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}
