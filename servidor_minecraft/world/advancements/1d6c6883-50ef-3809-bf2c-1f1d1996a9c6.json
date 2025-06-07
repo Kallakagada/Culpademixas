@@ -252,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-06-07 03:30:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-06-07 03:14:26 +0000"
@@ -384,7 +390,8 @@
       "chicken": "2025-06-06 20:02:58 +0000",
       "cooked_beef": "2025-06-07 03:20:45 +0000",
       "beef": "2025-05-29 20:02:10 +0000",
-      "rotten_flesh": "2025-06-07 03:27:26 +0000"
+      "rotten_flesh": "2025-06-07 03:27:26 +0000",
+      "cooked_chicken": "2025-06-07 03:31:21 +0000"
     },
     "done": false
   },
@@ -445,6 +452,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-05-29 19:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-06-07 03:30:42 +0000"
     },
     "done": true
   },
