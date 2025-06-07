@@ -351,3 +351,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 05:11:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> xddd
 [07Jun2025 05:12:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> que es lo que sale al intentar cargarlo
 [07Jun2025 05:14:56.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-318, y=64, z=-212} BlockPos{x=-319, y=64, z=-212}
+[07Jun2025 05:18:34.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-351, y=69, z=-282} BlockPos{x=-351, y=67, z=-283}
+[07Jun2025 05:30:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Fishy Business]
+[07Jun2025 05:37:35.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=94, y=66, z=-798} BlockPos{x=94, y=66, z=-797}
+[07Jun2025 05:39:02.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [A Seedy Place]
+[07Jun2025 05:39:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Sweet Dreams]
+[07Jun2025 05:40:09.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Sweet Dreams]
