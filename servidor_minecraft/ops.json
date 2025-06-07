@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "1d6c6883-50ef-3809-bf2c-1f1d1996a9c6",
+    "name": "TumaridoTop1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
