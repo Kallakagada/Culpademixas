@@ -332,3 +332,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Jun2025 04:54:50.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab suffocated in a wall
 [07Jun2025 04:57:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Diamonds!]
 [07Jun2025 05:04:06.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has reached the goal [Feelingwatched]
+[07Jun2025 05:07:47.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
+[07Jun2025 05:07:47.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
+[07Jun2025 05:08:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was slain by Midnight Lurker
+[07Jun2025 05:09:59.380] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[07Jun2025 05:09:59.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[07Jun2025 05:10:04.982] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ce06bac
+[07Jun2025 05:10:04.987] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:57979] logged in with entity id 29590 at (-247.26743432806668, 84.0, -184.1961423585444)
+[07Jun2025 05:10:04.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[07Jun2025 05:10:48.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> no puedo conectar mi discord a la laptop XD
+[07Jun2025 05:10:55.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> xd
+[07Jun2025 05:10:57.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> ve
+[07Jun2025 05:11:01.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> porque ?
+[07Jun2025 05:11:07.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> no carga mi cel on
+[07Jun2025 05:11:17.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> ahi esta conectado el discord
+[07Jun2025 05:11:21.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> no te acuerdas tu cuenta de discord ?
+[07Jun2025 05:11:24.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> y no me acuerdo mi cuenta
+[07Jun2025 05:11:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> xddd
+[07Jun2025 05:12:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> que es lo que sale al intentar cargarlo
+[07Jun2025 05:14:56.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-318, y=64, z=-212} BlockPos{x=-319, y=64, z=-212}
