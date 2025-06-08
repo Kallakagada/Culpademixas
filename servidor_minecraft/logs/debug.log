@@ -1010,3 +1010,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:24:15.374] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/140, l='ServerLevel[world]', x=-310.30, y=57.00, z=-216.30]]
 [08Jun2025 02:24:45.881] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/140, l='ServerLevel[world]', x=-310.30, y=57.00, z=-216.30]]
 [08Jun2025 02:25:00.173] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/140, l='ServerLevel[world]', x=-310.30, y=57.00, z=-216.30]]
+[08Jun2025 02:25:53.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:25:53.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:30:53.491] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:30:53.495] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
