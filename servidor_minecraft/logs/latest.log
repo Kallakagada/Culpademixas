@@ -97,3 +97,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 17:36:32.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Midnight Lurker
 [08Jun2025 17:37:11.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [08Jun2025 17:37:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: q nub<--[HERE]
+[08Jun2025 17:39:19.707] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2472fb3e
+[08Jun2025 17:39:19.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.50.17.154:35473] logged in with entity id 14503 at (299.5973233157819, 84.0, 290.30000001192093)
+[08Jun2025 17:39:19.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
+[08Jun2025 17:40:08.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Those Were the Days]
+[08Jun2025 17:44:21.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] .
+[08Jun2025 17:44:31.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
+[08Jun2025 17:44:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] q nub
+[08Jun2025 17:47:14.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
+[08Jun2025 17:48:13.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Take Aim]
