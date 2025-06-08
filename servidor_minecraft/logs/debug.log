@@ -1263,3 +1263,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:42:04.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.194.230.58:58691] logged in with entity id 5752 at (-309.13050963548625, 67.0, -235.52714680251182)
 [08Jun2025 02:42:04.282] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@49b9a8ce into net.minecraft.network.Connection@61666fd5
 [08Jun2025 02:42:04.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
+[08Jun2025 02:45:53.508] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:45:53.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 02:47:32.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab tried to swim in lava
+[08Jun2025 02:50:53.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 02:50:53.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
