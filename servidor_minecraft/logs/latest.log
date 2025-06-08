@@ -376,3 +376,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 06:41:23.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
 [08Jun2025 06:41:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
 [08Jun2025 06:41:24.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/94082, l='ServerLevel[world]', x=2465.90, y=43.09, z=2386.40] died, message: 'Nitwit was slain by Zombie'
+[08Jun2025 07:06:46.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2556, y=72, z=2448} BlockPos{x=2558, y=72, z=2446}
