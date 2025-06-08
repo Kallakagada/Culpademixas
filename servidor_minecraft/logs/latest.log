@@ -377,3 +377,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 06:41:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
 [08Jun2025 06:41:24.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/94082, l='ServerLevel[world]', x=2465.90, y=43.09, z=2386.40] died, message: 'Nitwit was slain by Zombie'
 [08Jun2025 07:06:46.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2556, y=72, z=2448} BlockPos{x=2558, y=72, z=2446}
+[08Jun2025 07:13:03.925] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 07:13:03.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[08Jun2025 07:13:18.021] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@36399293
+[08Jun2025 07:13:18.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:51443] logged in with entity id 103645 at (2559.425766481425, 71.0, 2451.300000011921)
+[08Jun2025 07:13:18.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 07:13:30.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 07:13:30.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[08Jun2025 07:13:46.370] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@449151be
+[08Jun2025 07:13:46.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:38483] logged in with entity id 103934 at (2553.0, 73.67500003576279, 2447.0625)
+[08Jun2025 07:13:46.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 07:13:50.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 07:13:50.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[08Jun2025 07:14:08.870] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b73e2cf
+[08Jun2025 07:14:08.873] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:34981] logged in with entity id 104206 at (2553.0, 73.67500003576279, 2447.0625)
+[08Jun2025 07:14:08.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 07:14:15.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab suffocated in a wall
+[08Jun2025 07:14:30.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Nightmare.JAR
+[08Jun2025 07:17:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
