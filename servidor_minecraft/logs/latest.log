@@ -260,3 +260,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 04:56:17.476] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f84117
 [08Jun2025 04:56:17.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:54699] logged in with entity id 48263 at (-179.07516674389205, 71.0, -222.3849641876313)
 [08Jun2025 04:56:17.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 05:03:44.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> ww
+[08Jun2025 05:04:58.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was slain by Nightmare.JAR
+[08Jun2025 05:06:46.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 05:06:46.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[08Jun2025 05:06:52.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> ew
+[08Jun2025 05:06:55.873] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f7f23b3
+[08Jun2025 05:06:55.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:52261] logged in with entity id 53216 at (-1153.4307003546526, 66.0, -345.07697372385337)
+[08Jun2025 05:06:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
