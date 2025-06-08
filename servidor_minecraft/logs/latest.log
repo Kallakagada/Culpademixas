@@ -88,3 +88,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
 [08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
 [08Jun2025 16:27:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[08Jun2025 16:40:21.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
+[08Jun2025 16:40:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
