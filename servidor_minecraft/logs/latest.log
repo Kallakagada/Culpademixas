@@ -125,3 +125,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 18:18:42.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab drowned
 [08Jun2025 18:19:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab tried to swim in lava
 [08Jun2025 18:25:34.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Man From The Fog
+[08Jun2025 18:40:50.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
+[08Jun2025 18:40:50.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
+[08Jun2025 18:41:01.805] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3aea6c87
+[08Jun2025 18:41:01.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.50.17.154:46123] logged in with entity id 46259 at (97.66248838420489, 67.0, -1334.4226162929613)
+[08Jun2025 18:41:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
+[08Jun2025 18:46:29.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
+[08Jun2025 18:52:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Smoke On The Water]
+[08Jun2025 18:52:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Smoke On The Water]
+[08Jun2025 18:53:01.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
+[08Jun2025 18:53:01.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
+[08Jun2025 18:53:01.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 18:53:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
