@@ -2101,3 +2101,114 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 04:25:53.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jun2025 04:25:56.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
 [08Jun2025 04:26:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[08Jun2025 04:27:24.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[08Jun2025 04:27:43.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[08Jun2025 04:28:09.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[08Jun2025 04:28:12.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[08Jun2025 04:28:17.465] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/37208, l='ServerLevel[world]', x=-741.70, y=82.00, z=43.30]]
+[08Jun2025 04:28:20.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[08Jun2025 04:28:23.186] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/37208, l='ServerLevel[world]', x=-741.70, y=82.00, z=43.30]]
+[08Jun2025 04:28:27.127] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-745.70, y=79.00, z=37.59]]
+[08Jun2025 04:28:36.445] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-745.70, y=79.00, z=37.82]]
+[08Jun2025 04:28:43.516] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-744.24, y=79.00, z=37.89]]
+[08Jun2025 04:28:43.866] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/37208, l='ServerLevel[world]', x=-741.98, y=82.00, z=44.70]]
+[08Jun2025 04:28:51.169] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-743.69, y=79.00, z=38.15]]
+[08Jun2025 04:28:53.085] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-744.49, y=79.00, z=37.40]]
+[08Jun2025 04:28:55.382] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/37208, l='ServerLevel[world]', x=-742.20, y=82.00, z=44.70]]
+[08Jun2025 04:29:11.873] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-745.29, y=79.00, z=37.44]]
+[08Jun2025 04:29:15.888] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-745.30, y=79.00, z=37.30]]
+[08Jun2025 04:29:16.726] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-745.30, y=79.00, z=37.30]]
+[08Jun2025 04:29:18.124] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-745.70, y=79.00, z=37.30]]
+[08Jun2025 04:29:28.332] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.91, y=79.00, z=37.30]]
+[08Jun2025 04:29:31.391] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.91, y=79.00, z=37.30]]
+[08Jun2025 04:29:31.530] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.91, y=79.00, z=37.30]]
+[08Jun2025 04:29:45.987] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.64, y=79.00, z=37.61]]
+[08Jun2025 04:29:49.712] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.64, y=79.00, z=37.61]]
+[08Jun2025 04:29:52.331] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.64, y=79.00, z=37.61]]
+[08Jun2025 04:29:53.516] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.64, y=79.00, z=37.61]]
+[08Jun2025 04:30:03.661] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-747.27, y=79.00, z=37.71]]
+[08Jun2025 04:30:20.338] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-748.81, y=79.00, z=37.83]]
+[08Jun2025 04:30:29.860] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.73, y=79.00, z=37.61]]
+[08Jun2025 04:30:30.569] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.73, y=79.00, z=37.61]]
+[08Jun2025 04:30:33.666] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-747.72, y=79.00, z=37.30]]
+[08Jun2025 04:30:36.103] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-746.59, y=79.00, z=38.06]]
+[08Jun2025 04:30:37.470] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-747.13, y=79.00, z=37.30]]
+[08Jun2025 04:30:39.615] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-748.01, y=79.00, z=37.47]]
+[08Jun2025 04:30:41.980] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-748.28, y=79.00, z=37.30]]
+[08Jun2025 04:30:53.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 04:30:53.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 04:30:55.967] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.60, y=79.00, z=37.66]]
+[08Jun2025 04:30:59.729] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.60, y=79.00, z=37.66]]
+[08Jun2025 04:31:19.687] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-748.34, y=79.00, z=38.47]]
+[08Jun2025 04:31:22.721] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-748.34, y=79.00, z=38.47]]
+[08Jun2025 04:31:33.416] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.48, y=79.00, z=37.30]]
+[08Jun2025 04:31:40.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[08Jun2025 04:33:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[08Jun2025 04:33:48.003] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.11, y=79.00, z=38.70]]
+[08Jun2025 04:33:54.528] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.62, y=79.00, z=38.21]]
+[08Jun2025 04:34:00.704] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.70, y=79.00, z=38.70]]
+[08Jun2025 04:34:05.179] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.04, y=79.00, z=38.01]]
+[08Jun2025 04:34:11.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[08Jun2025 04:34:24.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[08Jun2025 04:34:36.440] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.04, y=79.00, z=38.01]]
+[08Jun2025 04:34:38.882] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.04, y=79.00, z=38.01]]
+[08Jun2025 04:34:44.877] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.09, y=79.00, z=38.65]]
+[08Jun2025 04:34:54.441] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.09, y=79.00, z=38.65]]
+[08Jun2025 04:34:55.232] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.28, y=79.00, z=38.70]]
+[08Jun2025 04:34:55.491] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.04, y=79.00, z=38.52]]
+[08Jun2025 04:35:03.449] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.32, y=79.00, z=38.36]]
+[08Jun2025 04:35:08.374] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-748.30, y=79.00, z=37.77]]
+[08Jun2025 04:35:14.916] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.57, y=79.00, z=38.70]]
+[08Jun2025 04:35:20.058] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Jun2025 04:35:20.059] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Jun2025 04:35:20.059] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Jun2025 04:35:20.059] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Jun2025 04:35:20.064] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Jun2025 04:35:20.064] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Jun2025 04:35:20.064] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Jun2025 04:35:20.064] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Jun2025 04:35:20.069] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Jun2025 04:35:20.069] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Jun2025 04:35:20.069] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Jun2025 04:35:20.069] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Jun2025 04:35:20.073] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Jun2025 04:35:20.074] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Jun2025 04:35:20.074] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Jun2025 04:35:20.074] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Jun2025 04:35:20.319] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Jun2025 04:35:20.345] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Jun2025 04:35:20.345] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Jun2025 04:35:20.345] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Jun2025 04:35:20.346] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Jun2025 04:35:20.349] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Jun2025 04:35:20.350] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Jun2025 04:35:20.350] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Jun2025 04:35:20.475] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Jun2025 04:35:20.476] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Jun2025 04:35:20.476] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Jun2025 04:35:20.476] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Jun2025 04:35:20.519] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Jun2025 04:35:20.519] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Jun2025 04:35:20.520] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Jun2025 04:35:20.520] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Jun2025 04:35:20.525] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Jun2025 04:35:20.525] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Jun2025 04:35:20.525] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Jun2025 04:35:20.526] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Jun2025 04:35:20.622] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Jun2025 04:35:20.622] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Jun2025 04:35:20.623] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Jun2025 04:35:20.623] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Jun2025 04:35:20.653] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[08Jun2025 04:35:20.654] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Jun2025 04:35:20.654] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Jun2025 04:35:20.654] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Jun2025 04:35:20.727] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[08Jun2025 04:35:20.727] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[08Jun2025 04:35:20.727] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[08Jun2025 04:35:20.728] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[08Jun2025 04:35:22.004] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/19270, l='ServerLevel[world]', x=-749.70, y=79.00, z=37.74]]
+[08Jun2025 04:35:22.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[08Jun2025 04:35:46.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[08Jun2025 04:35:53.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 04:35:53.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
