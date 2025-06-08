@@ -395,3 +395,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 07:14:15.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab suffocated in a wall
 [08Jun2025 07:14:30.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Nightmare.JAR
 [08Jun2025 07:17:43.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
+[08Jun2025 07:18:39.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Zombie
+[08Jun2025 07:19:24.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
