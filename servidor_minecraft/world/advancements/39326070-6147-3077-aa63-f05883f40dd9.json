@@ -1107,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-06-08 16:13:38 +0000"
+    },
+    "done": false
+  },
   "dungeons_arise:find_mushroom_mines": {
     "criteria": {
       "location0": "2025-06-08 03:28:11 +0000"
@@ -1254,6 +1260,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-06-08 04:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-08 16:13:37 +0000"
     },
     "done": true
   },
@@ -1783,6 +1795,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-08 04:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-08 16:13:37 +0000"
     },
     "done": true
   },

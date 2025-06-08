@@ -1081,3 +1081,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 16:13:37.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [We Need to Go Deeper]
 [08Jun2025 16:13:37.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3988ms or 79 ticks behind
 [08Jun2025 16:13:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [We Need to Go Deeper]
+[08Jun2025 16:18:17.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 16:18:17.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 16:23:17.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 16:23:17.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
+[08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
+[08Jun2025 16:27:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
