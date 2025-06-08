@@ -311,6 +311,7 @@
       "cooked_cod": "2025-06-07 05:34:22 +0000",
       "golden_apple": "2025-06-07 04:49:35 +0000",
       "rotten_flesh": "2025-06-07 04:39:13 +0000",
+      "cooked_chicken": "2025-06-08 02:56:06 +0000",
       "cod": "2025-06-07 05:45:29 +0000"
     },
     "done": false
@@ -324,6 +325,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-06-08 03:06:23 +0000"
     },
     "done": true
   },
@@ -847,6 +854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-06-08 03:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-07 04:16:55 +0000"
@@ -868,6 +881,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-06-07 05:57:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-08 03:06:23 +0000"
     },
     "done": true
   },
@@ -916,6 +935,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-06-07 04:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-08 03:01:18 +0000"
     },
     "done": true
   },
@@ -1279,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-06-08 03:10:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-07 05:34:31 +0000"
@@ -1460,6 +1491,7 @@
       "minecraft:river": "2025-06-07 05:25:26 +0000",
       "minecraft:forest": "2025-06-07 04:17:05 +0000",
       "minecraft:ocean": "2025-06-07 05:22:40 +0000",
+      "minecraft:jungle": "2025-06-08 03:14:52 +0000",
       "minecraft:savanna": "2025-06-07 04:17:41 +0000",
       "minecraft:plains": "2025-06-07 04:07:38 +0000"
     },
@@ -1573,6 +1605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-08 03:06:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:23:35 +0000"
@@ -1612,6 +1650,12 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-06-07 05:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-06-08 03:01:18 +0000"
     },
     "done": true
   },

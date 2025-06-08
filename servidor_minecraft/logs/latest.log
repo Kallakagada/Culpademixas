@@ -81,3 +81,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:42:04.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.194.230.58:58691] logged in with entity id 5752 at (-309.13050963548625, 67.0, -235.52714680251182)
 [08Jun2025 02:42:04.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
 [08Jun2025 02:47:32.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab tried to swim in lava
+[08Jun2025 03:00:42.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was slain by Man From The Fog
+[08Jun2025 03:07:36.493] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[08Jun2025 03:07:44.134] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[08Jun2025 03:07:44.135] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[08Jun2025 03:07:44.135] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[08Jun2025 03:07:44.136] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[08Jun2025 03:07:44.136] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[08Jun2025 03:07:44.137] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[08Jun2025 03:07:44.137] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[08Jun2025 03:07:44.137] [Worker-Main-68/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[08Jun2025 03:07:44.630] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[08Jun2025 03:07:44.890] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[08Jun2025 03:07:44.891] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[08Jun2025 03:07:44.891] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[08Jun2025 03:07:44.891] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[08Jun2025 03:07:44.892] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[08Jun2025 03:09:40.213] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[08Jun2025 03:09:40.214] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[08Jun2025 03:09:40.458] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[08Jun2025 03:09:58.406] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[08Jun2025 03:09:58.406] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
