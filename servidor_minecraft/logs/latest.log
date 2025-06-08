@@ -72,3 +72,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 02:13:38.663] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@419da484
 [08Jun2025 02:13:38.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.194.230.58:33173] logged in with entity id 140 at (-312.30000001192093, 26.0, -212.30000001192093)
 [08Jun2025 02:13:38.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
+[08Jun2025 02:37:56.083] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d8b1df5
+[08Jun2025 02:37:56.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:35017] logged in with entity id 4684 at (328.5325965446334, 63.0, -897.010814975351)
+[08Jun2025 02:37:56.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 02:41:57.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
+[08Jun2025 02:41:57.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
+[08Jun2025 02:42:04.276] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b73ff0b
+[08Jun2025 02:42:04.281] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.194.230.58:58691] logged in with entity id 5752 at (-309.13050963548625, 67.0, -235.52714680251182)
+[08Jun2025 02:42:04.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
