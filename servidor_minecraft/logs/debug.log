@@ -1088,3 +1088,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
 [08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
 [08Jun2025 16:27:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[08Jun2025 16:28:17.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 16:28:17.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 16:33:17.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 16:33:17.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
