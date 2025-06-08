@@ -2739,3 +2739,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 05:06:55.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:52261] logged in with entity id 53216 at (-1153.4307003546526, 66.0, -345.07697372385337)
 [08Jun2025 05:06:55.876] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6b076dcb into net.minecraft.network.Connection@77ce8caf
 [08Jun2025 05:06:55.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 05:10:53.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 05:10:53.499] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 05:15:53.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 05:15:53.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 05:16:06.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Ice Bucket Challenge]
+[08Jun2025 05:16:58.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Who is Cutting Onions?]
+[08Jun2025 05:20:53.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 05:20:53.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 05:25:53.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 05:25:53.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
