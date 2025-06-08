@@ -316,6 +316,7 @@
       "cooked_cod": "2025-06-07 05:42:14 +0000",
       "mutton": "2025-06-07 05:12:29 +0000",
       "bread": "2025-06-07 04:59:06 +0000",
+      "golden_apple": "2025-06-08 03:52:00 +0000",
       "rotten_flesh": "2025-06-07 03:27:26 +0000",
       "suspicious_stew": "2025-06-07 05:37:42 +0000",
       "glow_berries": "2025-06-07 04:58:53 +0000",
@@ -1480,8 +1481,10 @@
       "minecraft:deep_ocean": "2025-06-07 05:23:30 +0000",
       "minecraft:beach": "2025-06-07 04:17:33 +0000",
       "minecraft:river": "2025-06-07 05:25:26 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-08 03:43:42 +0000",
       "minecraft:forest": "2025-06-07 04:11:49 +0000",
       "minecraft:ocean": "2025-06-06 20:07:46 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-06-08 03:43:34 +0000",
       "minecraft:savanna": "2025-06-07 04:41:59 +0000",
       "minecraft:plains": "2025-05-29 19:56:36 +0000"
     },
@@ -1601,6 +1604,12 @@
     },
     "done": true
   },
+  "the_knocker:cant_sleep": {
+    "criteria": {
+      "cant_sleep_0": "2025-06-08 03:52:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-06-06 20:12:44 +0000"
@@ -1682,6 +1691,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:27:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-06-08 03:54:20 +0000"
     },
     "done": true
   },

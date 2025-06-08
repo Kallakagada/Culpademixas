@@ -118,3 +118,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 03:33:11.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TumaridoTop1[/127.205.204.136:51003] logged in with entity id 19270 at (339.70530516015015, 63.0, -896.8084859442672)
 [08Jun2025 03:33:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 joined the game
 [08Jun2025 03:33:28.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Ice Bucket Challenge]
+[08Jun2025 03:36:51.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! -3.1020410955728153,0.5009966402674735,-9.86746637178021
+[08Jun2025 03:40:35.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 03:40:35.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[08Jun2025 03:41:07.340] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6bc630c3
+[08Jun2025 03:41:07.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:43939] logged in with entity id 23753 at (-733.2156538252382, 70.0, 11.774016790635276)
+[08Jun2025 03:41:07.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 03:42:50.466] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24715, l='ServerLevel[world]', x=159.87, y=-256.00, z=-581.37] died, message: 'Villager fell out of the world'
+[08Jun2025 03:45:31.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was doomed to fall by Alexis
+[08Jun2025 03:49:56.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was doomed to fall by Creeper
+[08Jun2025 03:54:50.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 fell from a high place
