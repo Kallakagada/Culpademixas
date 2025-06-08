@@ -373,3 +373,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 06:08:55.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [You Are A Pirate]
 [08Jun2025 06:08:56.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [You Are A Pirate]
 [08Jun2025 06:24:19.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> e
+[08Jun2025 06:41:23.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
+[08Jun2025 06:41:23.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
+[08Jun2025 06:41:24.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/94082, l='ServerLevel[world]', x=2465.90, y=43.09, z=2386.40] died, message: 'Nitwit was slain by Zombie'
