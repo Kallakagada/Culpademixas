@@ -106,3 +106,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 17:44:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] q nub
 [08Jun2025 17:47:14.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
 [08Jun2025 17:48:13.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Take Aim]
+[08Jun2025 17:50:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [War Pigs]
+[08Jun2025 17:52:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
+[08Jun2025 17:53:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was slain by Piglin Brute
+[08Jun2025 17:56:35.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab tried to swim in lava
+[08Jun2025 17:57:08.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Nightmare.JAR
+[08Jun2025 18:06:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> t
+[08Jun2025 18:06:57.993] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[08Jun2025 18:06:57.994] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[08Jun2025 18:06:57.995] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[08Jun2025 18:06:57.995] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[08Jun2025 18:06:58.008] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[08Jun2025 18:06:58.008] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[08Jun2025 18:06:58.009] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
