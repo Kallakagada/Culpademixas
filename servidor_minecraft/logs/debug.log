@@ -1815,3 +1815,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 03:54:50.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 fell from a high place
 [08Jun2025 03:55:53.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jun2025 03:55:53.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 03:59:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Not Today, Thank You]
+[08Jun2025 03:59:38.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was shot by Skeleton
+[08Jun2025 03:59:47.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was slain by Zombie
+[08Jun2025 04:00:24.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was shot by Skeleton
+[08Jun2025 04:00:53.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 04:00:53.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 04:00:54.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was slain by Zombie
+[08Jun2025 04:02:16.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was shot by Skeleton
+[08Jun2025 04:03:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Diamonds!]
+[08Jun2025 04:04:18.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was doomed to fall by Creeper
+[08Jun2025 04:04:54.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 fell from a high place
+[08Jun2025 04:05:24.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was slain by Zombie
+[08Jun2025 04:05:40.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was shot by Skeleton
+[08Jun2025 04:05:48.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 fell from a high place
+[08Jun2025 04:05:53.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jun2025 04:05:53.502] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jun2025 04:05:59.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was shot by Skeleton
+[08Jun2025 04:06:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 was slain by Zombie
