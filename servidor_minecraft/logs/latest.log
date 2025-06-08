@@ -75,3 +75,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 15:38:13.815] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10375 ms
 [08Jun2025 15:38:13.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.002s)! For help, type "help"
 [08Jun2025 15:38:13.842] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Jun2025 15:54:30.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b566b01
+[08Jun2025 15:54:30.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.194.230.58:54779] logged in with entity id 139 at (2544.699999988079, 80.0, 2452.8108018350003)
+[08Jun2025 15:54:30.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
+[08Jun2025 15:58:40.770] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77f8946e
+[08Jun2025 15:58:40.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:34883] logged in with entity id 807 at (2542.9057210616556, 69.0625, 2453.4812201780433)
+[08Jun2025 15:58:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 16:11:58.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> y
+[08Jun2025 16:13:37.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [We Need to Go Deeper]
+[08Jun2025 16:13:37.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3988ms or 79 ticks behind
+[08Jun2025 16:13:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [We Need to Go Deeper]
