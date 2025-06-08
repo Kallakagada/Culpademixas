@@ -119,3 +119,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 18:06:58.008] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
 [08Jun2025 18:06:58.008] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
 [08Jun2025 18:06:58.009] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[08Jun2025 18:15:40.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ruiz14kr3hab) moved too quickly! -0.679529022828774,0.0,10.377773328916646
+[08Jun2025 18:15:40.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ruiz14kr3hab) moved too quickly! -0.7056647545821306,0.0,10.776918456952899
+[08Jun2025 18:15:40.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ruiz14kr3hab) moved too quickly! -0.731800486337761,0.0,11.176063584989151
+[08Jun2025 18:18:42.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab drowned
+[08Jun2025 18:19:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab tried to swim in lava
+[08Jun2025 18:25:34.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Man From The Fog

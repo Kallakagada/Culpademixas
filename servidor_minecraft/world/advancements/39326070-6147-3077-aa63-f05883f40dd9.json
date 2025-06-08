@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-06-08 18:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:23:35 +0000"
@@ -524,7 +530,8 @@
       "minecraft:creeper": "2025-06-07 04:52:09 +0000",
       "minecraft:cave_spider": "2025-06-07 04:54:04 +0000",
       "minecraft:piglin": "2025-06-08 17:18:36 +0000",
-      "minecraft:zombie": "2025-06-07 05:21:37 +0000"
+      "minecraft:zombie": "2025-06-07 05:21:37 +0000",
+      "minecraft:drowned": "2025-06-08 18:22:50 +0000"
     },
     "done": false
   },
@@ -1049,7 +1056,9 @@
       "minecraft:river": "2025-06-07 05:25:26 +0000",
       "minecraft:lukewarm_ocean": "2025-06-08 05:42:00 +0000",
       "minecraft:stony_shore": "2025-06-08 18:00:14 +0000",
+      "minecraft:cold_ocean": "2025-06-08 18:14:53 +0000",
       "minecraft:forest": "2025-06-07 04:17:05 +0000",
+      "minecraft:deep_cold_ocean": "2025-06-08 18:14:58 +0000",
       "minecraft:ocean": "2025-06-07 05:22:40 +0000",
       "minecraft:jungle": "2025-06-08 03:14:52 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 05:51:07 +0000",
