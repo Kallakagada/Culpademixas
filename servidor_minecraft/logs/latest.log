@@ -102,3 +102,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 03:09:40.458] [Worker-Main-27/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
 [08Jun2025 03:09:58.406] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
 [08Jun2025 03:09:58.406] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[08Jun2025 03:18:24.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Sweet Dreams]
+[08Jun2025 03:19:08.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 03:19:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[08Jun2025 03:19:21.984] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@67c255e2
+[08Jun2025 03:19:21.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:56295] logged in with entity id 16422 at (-581.5, 101.0, -102.5)
+[08Jun2025 03:19:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 03:24:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Best Friends Forever]
+[08Jun2025 03:29:41.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[08Jun2025 03:29:41.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[08Jun2025 03:29:59.285] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d8d003
+[08Jun2025 03:29:59.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:52877] logged in with entity id 18680 at (-714.1619250369478, 77.0, 18.956448695415837)
+[08Jun2025 03:29:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[08Jun2025 03:33:11.081] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29e198c4
+[08Jun2025 03:33:11.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TumaridoTop1[/127.205.204.136:51003] logged in with entity id 19270 at (339.70530516015015, 63.0, -896.8084859442672)
+[08Jun2025 03:33:11.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 joined the game
+[08Jun2025 03:33:28.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Ice Bucket Challenge]
