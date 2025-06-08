@@ -90,3 +90,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Jun2025 16:27:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
 [08Jun2025 16:40:21.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
 [08Jun2025 16:40:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[08Jun2025 17:00:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Those Were the Days]
+[08Jun2025 17:08:11.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Midnight Lurker
