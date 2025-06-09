@@ -405,6 +405,7 @@
     "criteria": {
       "chicken": "2025-06-08 02:53:45 +0000",
       "beef": "2025-06-08 04:23:34 +0000",
+      "baked_potato": "2025-06-09 03:13:30 +0000",
       "potato": "2025-06-09 03:01:11 +0000",
       "mutton": "2025-06-08 04:12:02 +0000",
       "bread": "2025-06-08 02:48:54 +0000",
@@ -757,6 +758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-06-09 03:10:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-06-07 04:34:54 +0000"
@@ -1058,6 +1065,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-09 03:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-09 03:07:42 +0000"
     },
     "done": true
   },
