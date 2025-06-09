@@ -1,24 +1,24 @@
-[08Jun2025 15:37:41.299] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
-[08Jun2025 15:37:41.303] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[08Jun2025 15:37:42.517] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Culpademixas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[08Jun2025 15:37:43.029] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
-[08Jun2025 15:37:43.032] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[08Jun2025 15:37:43.034] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[08Jun2025 15:37:43.035] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
-[08Jun2025 15:37:43.193] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[08Jun2025 15:37:45.179] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Jun2025 15:37:45.195] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Jun2025 15:37:51.969] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
-[08Jun2025 15:37:54.399] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
-[08Jun2025 15:37:54.402] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
-[08Jun2025 15:37:55.176] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[08Jun2025 15:37:55.824] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Jun2025 15:37:56.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
-[08Jun2025 15:37:57.063] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Jun2025 15:37:58.100] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23119!/assets/.mcassetsroot' uses unexpected schema
-[08Jun2025 15:37:58.100] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23119!/data/.mcassetsroot' uses unexpected schema
-[08Jun2025 15:38:01.136] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[08Jun2025 15:38:01.598] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[09Jun2025 02:16:00.691] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853, nogui]
+[09Jun2025 02:16:00.695] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[09Jun2025 02:16:00.899] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Culpademixas/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[09Jun2025 02:16:01.235] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[09Jun2025 02:16:01.238] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[09Jun2025 02:16:01.240] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[09Jun2025 02:16:01.242] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[09Jun2025 02:16:01.350] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[09Jun2025 02:16:02.650] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Jun2025 02:16:02.663] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[09Jun2025 02:16:07.107] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[09Jun2025 02:16:08.773] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[09Jun2025 02:16:08.777] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[09Jun2025 02:16:09.275] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[09Jun2025 02:16:09.477] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Jun2025 02:16:09.851] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.5.0
+[09Jun2025 02:16:10.575] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Jun2025 02:16:11.142] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23119!/assets/.mcassetsroot' uses unexpected schema
+[09Jun2025 02:16:11.143] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Culpademixas/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23119!/data/.mcassetsroot' uses unexpected schema
+[09Jun2025 02:16:13.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[09Jun2025 02:16:13.748] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -34,106 +34,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:85) ~[server-1.19.2-20220805.130853-srg.jar%23119!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[08Jun2025 15:38:01.772] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
+[09Jun2025 02:16:13.850] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement man:thetear: Non [a-z0-9/._-] character in path of location: man:tearoftheman
 
-[08Jun2025 15:38:01.810] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1318 advancements
-[08Jun2025 15:38:02.456] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
-[08Jun2025 15:38:02.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Jun2025 15:38:02.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Jun2025 15:38:02.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Jun2025 15:38:02.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Jun2025 15:38:02.684] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Jun2025 15:38:02.796] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Jun2025 15:38:02.797] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Jun2025 15:38:02.797] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Jun2025 15:38:02.797] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Jun2025 15:38:02.837] [Thread-0/INFO] [de.cadentem.nightmare.Nightmare/]: Server configuration has been reloaded
-[08Jun2025 15:38:02.850] [Thread-0/INFO] [de.cadentem.nightmare.Nightmare/]: Server configuration has been reloaded
-[08Jun2025 15:38:02.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Jun2025 15:38:03.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Jun2025 15:38:07.205] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.208] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.209] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.230] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.278] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.282] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.285] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.288] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:07.446] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:08.521] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:08.523] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:09.015] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:09.446] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:09.943] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:10.464] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:10.955] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:11.441] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:11.943] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Jun2025 15:38:12.441] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[08Jun2025 15:38:12.940] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
-[08Jun2025 15:38:13.441] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[08Jun2025 15:38:13.815] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 10375 ms
-[08Jun2025 15:38:13.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.002s)! For help, type "help"
-[08Jun2025 15:38:13.842] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Jun2025 15:54:30.010] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b566b01
-[08Jun2025 15:54:30.027] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.194.230.58:54779] logged in with entity id 139 at (2544.699999988079, 80.0, 2452.8108018350003)
-[08Jun2025 15:54:30.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
-[08Jun2025 15:58:40.770] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77f8946e
-[08Jun2025 15:58:40.778] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:34883] logged in with entity id 807 at (2542.9057210616556, 69.0625, 2453.4812201780433)
-[08Jun2025 15:58:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
-[08Jun2025 16:11:58.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> y
-[08Jun2025 16:13:37.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [We Need to Go Deeper]
-[08Jun2025 16:13:37.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3988ms or 79 ticks behind
-[08Jun2025 16:13:40.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [We Need to Go Deeper]
-[08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
-[08Jun2025 16:23:34.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
-[08Jun2025 16:27:59.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[08Jun2025 16:40:21.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 13000
-[08Jun2025 16:40:28.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
-[08Jun2025 17:00:04.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Those Were the Days]
-[08Jun2025 17:08:11.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Midnight Lurker
-[08Jun2025 17:19:45.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [War Pigs]
-[08Jun2025 17:19:49.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Hidden in the Depths]
-[08Jun2025 17:36:32.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Midnight Lurker
-[08Jun2025 17:37:11.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[08Jun2025 17:37:11.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: q nub<--[HERE]
-[08Jun2025 17:39:19.707] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2472fb3e
-[08Jun2025 17:39:19.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.50.17.154:35473] logged in with entity id 14503 at (299.5973233157819, 84.0, 290.30000001192093)
-[08Jun2025 17:39:19.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
-[08Jun2025 17:40:08.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Those Were the Days]
-[08Jun2025 17:44:21.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] .
-[08Jun2025 17:44:31.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
-[08Jun2025 17:44:50.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] q nub
-[08Jun2025 17:47:14.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
-[08Jun2025 17:48:13.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Take Aim]
-[08Jun2025 17:50:48.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [War Pigs]
-[08Jun2025 17:52:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Piglin Brute
-[08Jun2025 17:53:07.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was slain by Piglin Brute
-[08Jun2025 17:56:35.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab tried to swim in lava
-[08Jun2025 17:57:08.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Nightmare.JAR
-[08Jun2025 18:06:46.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> t
-[08Jun2025 18:06:57.993] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
-[08Jun2025 18:06:57.994] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
-[08Jun2025 18:06:57.995] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
-[08Jun2025 18:06:57.995] [Worker-Main-50/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
-[08Jun2025 18:06:58.008] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
-[08Jun2025 18:06:58.008] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
-[08Jun2025 18:06:58.009] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
-[08Jun2025 18:15:40.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ruiz14kr3hab) moved too quickly! -0.679529022828774,0.0,10.377773328916646
-[08Jun2025 18:15:40.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ruiz14kr3hab) moved too quickly! -0.7056647545821306,0.0,10.776918456952899
-[08Jun2025 18:15:40.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ruiz14kr3hab) moved too quickly! -0.731800486337761,0.0,11.176063584989151
-[08Jun2025 18:18:42.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab drowned
-[08Jun2025 18:19:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab tried to swim in lava
-[08Jun2025 18:25:34.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Man From The Fog
-[08Jun2025 18:40:50.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
-[08Jun2025 18:40:50.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
-[08Jun2025 18:41:01.805] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3aea6c87
-[08Jun2025 18:41:01.809] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.50.17.154:46123] logged in with entity id 46259 at (97.66248838420489, 67.0, -1334.4226162929613)
-[08Jun2025 18:41:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
-[08Jun2025 18:46:29.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5744ms or 114 ticks behind
-[08Jun2025 18:52:33.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab has made the advancement [Smoke On The Water]
-[08Jun2025 18:52:33.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Smoke On The Water]
-[08Jun2025 18:53:01.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alexis lost connection: Disconnected
-[08Jun2025 18:53:01.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis left the game
-[08Jun2025 18:53:01.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
-[08Jun2025 18:53:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[09Jun2025 02:16:13.876] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1318 advancements
+[09Jun2025 02:16:14.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[09Jun2025 02:16:14.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Jun2025 02:16:14.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Jun2025 02:16:14.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Jun2025 02:16:14.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Jun2025 02:16:14.432] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Jun2025 02:16:14.514] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Jun2025 02:16:14.515] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Jun2025 02:16:14.516] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Jun2025 02:16:14.516] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Jun2025 02:16:14.541] [Thread-0/INFO] [de.cadentem.steve_dweller.SteveDweller/]: Server configuration has been reloaded
+[09Jun2025 02:16:14.543] [Thread-0/INFO] [de.cadentem.steve_dweller.SteveDweller/]: Server configuration has been reloaded
+[09Jun2025 02:16:14.546] [Thread-0/INFO] [de.cadentem.sackman.SackMan/]: Server configuration has been reloaded
+[09Jun2025 02:16:14.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Jun2025 02:16:14.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Jun2025 02:16:19.292] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.347] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.363] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.381] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.392] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.409] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.422] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.434] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.486] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:19.974] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jun2025 02:16:20.470] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[09Jun2025 02:16:20.971] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[09Jun2025 02:16:21.476] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[09Jun2025 02:16:21.726] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6757 ms
+[09Jun2025 02:16:21.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.198s)! For help, type "help"
+[09Jun2025 02:16:21.742] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Jun2025 02:17:32.265] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a3c55a6
+[09Jun2025 02:17:32.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alexis[/127.50.17.154:57161] logged in with entity id 96 at (38.61160494202538, 62.07326432466506, -2410.5491160988695)
+[09Jun2025 02:17:32.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis joined the game
+[09Jun2025 02:17:34.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
