@@ -1696,3 +1696,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 04:54:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> yo tengo
 [09Jun2025 04:56:26.235] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 04:56:26.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 05:01:26.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 05:01:26.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 05:01:37.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> oeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[09Jun2025 05:03:05.744] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['ruiz14kr3hab'/48864, l='ServerLevel[world]', x=43.86, y=157.00, z=-4770.70]]
+[09Jun2025 05:03:13.143] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['ruiz14kr3hab'/48864, l='ServerLevel[world]', x=43.59, y=157.00, z=-4769.94]]
+[09Jun2025 05:03:25.243] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['ruiz14kr3hab'/48864, l='ServerLevel[world]', x=44.38, y=157.00, z=-4771.62]]
+[09Jun2025 05:06:03.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was killed by Potion using magic
+[09Jun2025 05:06:26.248] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 05:06:26.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 05:06:36.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> teletransportamne

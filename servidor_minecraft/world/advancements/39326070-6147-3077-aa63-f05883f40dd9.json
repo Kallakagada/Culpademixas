@@ -591,6 +591,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-07 05:22:14 +0000",
       "minecraft:hoglin": "2025-06-08 17:35:47 +0000",
+      "minecraft:magma_cube": "2025-06-09 05:03:31 +0000",
       "minecraft:spider": "2025-06-07 05:21:11 +0000",
       "minecraft:piglin_brute": "2025-06-08 06:41:57 +0000",
       "minecraft:creeper": "2025-06-07 04:52:09 +0000",
@@ -2479,6 +2480,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-08 04:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-09 05:02:55 +0000"
     },
     "done": true
   },

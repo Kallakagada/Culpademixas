@@ -1056,6 +1056,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-07 03:26:08 +0000",
+      "minecraft:magma_cube": "2025-06-09 05:04:11 +0000",
       "minecraft:spider": "2025-06-07 04:02:46 +0000",
       "minecraft:creeper": "2025-06-07 04:07:15 +0000",
       "minecraft:enderman": "2025-06-07 03:45:54 +0000",
@@ -1476,6 +1477,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-07 03:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-09 05:01:23 +0000"
     },
     "done": true
   },
