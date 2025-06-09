@@ -299,3 +299,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:11:02.529] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [09Jun2025 05:13:10.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> mis botas
 [09Jun2025 05:13:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> yara xD
+[09Jun2025 05:22:59.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> bajen yaaaa
+[09Jun2025 05:24:22.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 05:24:27.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> vamos abuscar castillos silva
+[09Jun2025 05:25:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 05:31:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 05:31:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]

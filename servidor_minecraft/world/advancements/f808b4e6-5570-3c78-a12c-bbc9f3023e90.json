@@ -2165,6 +2165,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-09 05:20:54 +0000"
+    },
+    "done": true
+  },
   "man:feelingwatched": {
     "criteria": {
       "feelingwatched": "2025-06-06 20:10:24 +0000"
