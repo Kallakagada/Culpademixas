@@ -1996,3 +1996,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 06:06:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
 [09Jun2025 06:06:31.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 06:06:31.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:08:25.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=69, z=-583} BlockPos{x=40, y=68, z=-583}
+[09Jun2025 06:08:25.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=69, z=-583} BlockPos{x=40, y=68, z=-583}
+[09Jun2025 06:08:25.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=69, z=-583} BlockPos{x=40, y=68, z=-583}
+[09Jun2025 06:08:25.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=40, y=69, z=-583} BlockPos{x=40, y=68, z=-583}
+[09Jun2025 06:08:45.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> pico loco
+[09Jun2025 06:11:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Into Fire]
+[09Jun2025 06:11:31.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:11:31.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:12:14.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 06:12:51.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 06:16:18.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [A Terrible Fortress]
+[09Jun2025 06:16:31.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:16:31.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:17:29.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was doomed to fall
+[09Jun2025 06:17:29.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [A Terrible Fortress]
+[09Jun2025 06:17:59.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
