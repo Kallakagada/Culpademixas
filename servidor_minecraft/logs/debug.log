@@ -1963,3 +1963,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:56:26.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 05:56:26.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jun2025 05:57:49.393] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=310.65, y=45.00, z=-4877.70]]
+[09Jun2025 05:57:55.643] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=310.65, y=45.00, z=-4877.70]]
+[09Jun2025 05:57:57.293] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=310.65, y=45.00, z=-4877.70]]
+[09Jun2025 05:57:59.543] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=310.65, y=45.00, z=-4877.70]]
+[09Jun2025 05:58:03.343] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=310.65, y=45.00, z=-4877.70]]
+[09Jun2025 05:58:09.093] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=310.65, y=45.00, z=-4877.70]]
+[09Jun2025 05:58:11.693] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=310.65, y=45.00, z=-4877.70]]
+[09Jun2025 05:58:12.693] [Server thread/DEBUG] [de.cadentem.nightmare.Nightmare/]: Nightmare could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=312.49, y=43.23, z=-4877.70]]
+[09Jun2025 05:58:33.375] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=373.85, y=-14.00, z=-4876.70]]
+[09Jun2025 05:58:41.900] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=393.70, y=-32.77, z=-4876.70]]
+[09Jun2025 05:58:48.565] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=402.24, y=-40.83, z=-4876.30]]
+[09Jun2025 05:59:05.406] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=404.30, y=-43.00, z=-4876.58]]
+[09Jun2025 05:59:11.061] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=404.05, y=-42.50, z=-4876.70]]
+[09Jun2025 05:59:13.063] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=401.56, y=-40.00, z=-4876.67]]
+[09Jun2025 05:59:18.403] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=399.97, y=-38.50, z=-4876.66]]
+[09Jun2025 05:59:31.146] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=393.85, y=-32.82, z=-4876.42]]
+[09Jun2025 05:59:32.654] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=396.65, y=-35.08, z=-4876.54]]
+[09Jun2025 05:59:33.602] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=397.56, y=-36.00, z=-4876.70]]
+[09Jun2025 05:59:42.796] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=393.67, y=-32.00, z=-4876.36]]
+[09Jun2025 05:59:53.301] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=391.09, y=-30.08, z=-4876.70]]
+[09Jun2025 05:59:55.143] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/3651, l='ServerLevel[world]', x=319.23, y=36.50, z=-4877.66]]
+[09Jun2025 05:59:56.894] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['TumaridoTop1'/3651, l='ServerLevel[world]', x=322.36, y=33.50, z=-4877.67]]
+[09Jun2025 06:00:04.495] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=388.53, y=-28.00, z=-4876.70]]
+[09Jun2025 06:00:19.146] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=337.83, y=21.00, z=-4875.41]]
+[09Jun2025 06:00:23.497] [Server thread/DEBUG] [de.cadentem.steve_dweller.SteveDweller/]: Steve Dweller could not pass the spawn checks, target: [ServerPlayer['Alexis'/96, l='ServerLevel[world]', x=334.13, y=25.50, z=-4877.55]]
+[09Jun2025 06:01:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Who is Cutting Onions?]
+[09Jun2025 06:01:26.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:01:26.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 06:02:24.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [We Need to Go Deeper]
+[09Jun2025 06:02:27.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5228ms or 104 ticks behind
+[09Jun2025 06:05:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 06:06:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 06:06:31.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 06:06:31.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

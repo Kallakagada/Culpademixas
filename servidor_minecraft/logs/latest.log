@@ -315,3 +315,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:55:32.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
 [09Jun2025 05:55:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
 [09Jun2025 05:55:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
+[09Jun2025 06:01:11.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Who is Cutting Onions?]
+[09Jun2025 06:02:24.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [We Need to Go Deeper]
+[09Jun2025 06:02:27.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5228ms or 104 ticks behind
+[09Jun2025 06:05:10.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 06:06:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
