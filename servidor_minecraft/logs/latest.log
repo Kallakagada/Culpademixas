@@ -121,3 +121,174 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 03:12:37.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
 [09Jun2025 03:13:01.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> papa noel esta arribaee
 [09Jun2025 03:16:04.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> ya esta vacio esto
+[09Jun2025 03:17:20.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> ven
+[09Jun2025 03:17:21.065] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7297e7d5
+[09Jun2025 03:17:21.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:45027] logged in with entity id 13627 at (38.61160494202538, 62.07326432466506, -2410.5491160988695)
+[09Jun2025 03:17:21.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[09Jun2025 03:17:27.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> ven oe
+[09Jun2025 03:17:32.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> agarrame esta
+[09Jun2025 03:17:36.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> digo este cofre
+[09Jun2025 03:18:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> sandi
+[09Jun2025 03:18:55.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to TumaridoTop1]
+[09Jun2025 03:23:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> mate a papa noel
+[09Jun2025 03:24:13.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> 5r
+[09Jun2025 03:25:04.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:25:28.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:25:52.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 03:26:25.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:27:08.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:27:22.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:27:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 03:28:07.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:28:09.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! 0.2608894957713517,-11.207870780463566,0.003019276784016256
+[09Jun2025 03:28:25.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was blown up by TumaridoTop1
+[09Jun2025 03:29:15.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to TumaridoTop1]
+[09Jun2025 03:29:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis died
+[09Jun2025 03:30:07.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
+[09Jun2025 03:35:00.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[09Jun2025 03:35:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[09Jun2025 03:35:06.761] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32ef53ec
+[09Jun2025 03:35:06.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:34505] logged in with entity id 21012 at (-174.2586082186082, 61.15378366318654, -2814.1024333632345)
+[09Jun2025 03:35:06.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[09Jun2025 03:36:04.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> hqhahah
+[09Jun2025 03:40:00.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
+[09Jun2025 03:46:12.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab went up in flames
+[09Jun2025 03:46:53.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to Alexis]
+[09Jun2025 03:47:09.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 03:48:19.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:48:27.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:49:06.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 03:49:18.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:50:16.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Skeleton
+[09Jun2025 03:50:31.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to TumaridoTop1]
+[09Jun2025 03:50:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab fell from a high place
+[09Jun2025 03:50:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> hahahah
+[09Jun2025 03:50:56.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to TumaridoTop1]
+[09Jun2025 03:54:00.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was blown up by Skeleton
+[09Jun2025 03:54:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was slain by Skeleton
+[09Jun2025 03:55:23.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:56:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:58:38.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:58:55.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:59:45.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 04:00:30.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:01:13.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 04:01:46.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:01:53.404] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Jun2025 04:01:53.405] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Jun2025 04:01:53.405] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Jun2025 04:01:53.405] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Jun2025 04:01:53.524] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Jun2025 04:01:53.524] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Jun2025 04:01:53.524] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Jun2025 04:01:53.525] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Jun2025 04:02:02.042] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Jun2025 04:02:02.043] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Jun2025 04:02:02.043] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Jun2025 04:02:02.043] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Jun2025 04:02:02.044] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Jun2025 04:02:40.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 04:02:54.801] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Jun2025 04:02:54.801] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Jun2025 04:02:54.802] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Jun2025 04:02:54.802] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Jun2025 04:03:00.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Jun2025 04:03:00.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Jun2025 04:03:00.261] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Jun2025 04:03:00.262] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Jun2025 04:03:00.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! -9.710346126588433,0.0,-3.2795418027239975
+[09Jun2025 04:03:03.841] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Jun2025 04:03:03.842] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Jun2025 04:03:03.843] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Jun2025 04:03:03.844] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Jun2025 04:03:21.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Jun2025 04:03:21.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Jun2025 04:03:21.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Jun2025 04:03:21.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Jun2025 04:03:32.793] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Jun2025 04:03:32.793] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Jun2025 04:03:32.793] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Jun2025 04:03:32.794] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Jun2025 04:03:33.877] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Jun2025 04:03:33.878] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Jun2025 04:03:33.879] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Jun2025 04:03:35.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! 6.452387366272774,-4.875000193694078,-6.956204021559643
+[09Jun2025 04:03:42.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! -9.713181445108944,1.6712814640986409,-3.5339673163557563
+[09Jun2025 04:05:51.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! 9.797300493681746,0.0,3.758574768491144
+[09Jun2025 04:06:03.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:06:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 04:06:33.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:09:02.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 04:09:11.687] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=79}
+[09Jun2025 04:09:11.687] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Jun2025 04:09:11.687] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Jun2025 04:09:11.688] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Jun2025 04:09:13.414] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Jun2025 04:09:13.414] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Jun2025 04:09:13.415] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Jun2025 04:09:13.415] [Worker-Main-31/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Jun2025 04:09:17.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:10:26.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 04:10:29.192] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Jun2025 04:10:29.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Jun2025 04:10:29.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Jun2025 04:10:29.193] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Jun2025 04:10:34.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! 4.641841416360194,5.624841610691291,6.953418450048503
+[09Jun2025 04:11:05.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! -6.831499578561079,0.0,-8.395287958064728
+[09Jun2025 04:11:32.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:12:57.419] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=115}
+[09Jun2025 04:12:57.420] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=119}
+[09Jun2025 04:12:57.420] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
+[09Jun2025 04:13:43.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 04:14:04.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:16:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was doomed to fall by Void Hands
+[09Jun2025 04:16:35.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> sandi teletransportame
+[09Jun2025 04:16:55.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
+[09Jun2025 04:17:29.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=99}
+[09Jun2025 04:17:29.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=103}
+[09Jun2025 04:17:29.976] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=107}
+[09Jun2025 04:17:29.977] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=111}
+[09Jun2025 04:17:36.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was shot by TumaridoTop1
+[09Jun2025 04:17:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to TumaridoTop1]
+[09Jun2025 04:18:52.416] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=83}
+[09Jun2025 04:18:52.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=87}
+[09Jun2025 04:18:52.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=91}
+[09Jun2025 04:18:52.417] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=95}
+[09Jun2025 04:22:26.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 04:23:26.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! -8.057125273096744,0.0,6.6901975154614775
+[09Jun2025 04:24:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported TumaridoTop1 to 288.500000, 101.853603, -4671.500000]
+[09Jun2025 04:24:06.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab moved too quickly! -4.556203440089803,0.0,9.042992504723316
+[09Jun2025 04:24:06.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[09Jun2025 04:24:08.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 04:24:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported 3 entities to TumaridoTop1]
+[09Jun2025 04:25:05.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:27:00.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [A Seedy Place]
+[09Jun2025 04:29:58.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ruiz14kr3hab lost connection: Disconnected
+[09Jun2025 04:29:58.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab left the game
+[09Jun2025 04:30:05.809] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b5decb8
+[09Jun2025 04:30:05.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ruiz14kr3hab[/127.192.126.155:35959] logged in with entity id 48864 at (588.6428619316001, 74.0, -4557.057545551932)
+[09Jun2025 04:30:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab joined the game
+[09Jun2025 04:30:11.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was slain by Man From The Fog
+[09Jun2025 04:30:32.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> dame comida
+[09Jun2025 04:30:42.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> abre la boquita
+[09Jun2025 04:30:44.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> tp
+[09Jun2025 04:30:50.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> hahahah
+[09Jun2025 04:30:55.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to Alexis]
+[09Jun2025 04:30:57.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> ahhhhmm
+[09Jun2025 04:31:11.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> ay viene el avioncito
+[09Jun2025 04:33:24.053] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/44914, l='ServerLevel[world]', x=274.73, y=72.56, z=-4677.04] died, message: 'Villager was blown up by Creeper'
+[09Jun2025 04:35:12.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> duermaaaan
+[09Jun2025 04:35:42.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ruiz14kr3hab was blown up by Creeper
+[09Jun2025 04:36:28.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> aqui hagamos la base pues
+[09Jun2025 04:36:32.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> esta chevere
+[09Jun2025 04:38:00.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TumaridoTop1 moved too quickly! 4.19440426949501,-0.17675927506424216,9.181843889726224
+[09Jun2025 04:39:42.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=124, z=-4607} BlockPos{x=175, y=123, z=-4607}
+[09Jun2025 04:39:47.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis fell from a high place
+[09Jun2025 04:39:58.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
+[09Jun2025 04:41:48.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> tp
+[09Jun2025 04:41:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported ruiz14kr3hab to Alexis]
+[09Jun2025 04:46:50.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 04:47:11.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 04:51:21.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> gracias bb
+[09Jun2025 04:54:22.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> madera me falta
+[09Jun2025 04:54:49.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ruiz14kr3hab> yo tengo

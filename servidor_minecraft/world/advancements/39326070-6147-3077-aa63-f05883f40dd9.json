@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-06-07 05:57:04 +0000"
@@ -161,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-06-07 04:15:30 +0000"
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-06-08 17:02:13 +0000"
@@ -218,6 +236,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-06-08 06:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 03:47:05 +0000"
     },
     "done": true
   },
@@ -347,6 +371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-06-07 05:56:22 +0000"
@@ -449,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-09 03:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-07 04:53:16 +0000"
@@ -485,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 03:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-06-07 04:16:33 +0000"
@@ -512,6 +554,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-06-07 05:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
     },
     "done": true
   },
@@ -793,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-09 03:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-06-08 07:20:27 +0000"
@@ -832,6 +886,12 @@
   "minecraft:recipes/decorations/purple_glazed_terracotta": {
     "criteria": {
       "has_purple_terracotta": "2025-06-08 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-09 04:34:59 +0000"
     },
     "done": true
   },
@@ -937,6 +997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-09 03:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-06-08 03:10:01 +0000"
@@ -964,6 +1030,12 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-06-08 07:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
     },
     "done": true
   },
@@ -1075,10 +1147,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-06-09 03:40:47 +0000",
+      "minecraft:taiga": "2025-06-09 04:00:21 +0000",
       "minecraft:deep_ocean": "2025-06-07 05:23:35 +0000",
       "minecraft:birch_forest": "2025-06-08 18:01:32 +0000",
+      "minecraft:windswept_hills": "2025-06-09 04:17:01 +0000",
       "minecraft:bamboo_jungle": "2025-06-08 05:55:49 +0000",
       "minecraft:beach": "2025-06-07 04:17:24 +0000",
       "minecraft:dark_forest": "2025-06-08 18:03:57 +0000",
@@ -1091,8 +1172,10 @@
       "minecraft:deep_cold_ocean": "2025-06-08 18:14:58 +0000",
       "minecraft:ocean": "2025-06-07 05:22:40 +0000",
       "minecraft:jungle": "2025-06-08 03:14:52 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-09 03:41:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-08 05:51:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-08 18:03:02 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-06-09 04:24:37 +0000",
       "minecraft:savanna": "2025-06-07 04:17:41 +0000",
       "minecraft:plains": "2025-06-07 04:07:38 +0000"
     },
@@ -1158,6 +1241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-06-07 05:47:50 +0000"
@@ -1173,6 +1262,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-07 04:12:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-09 03:29:08 +0000"
     },
     "done": true
   },
@@ -1209,6 +1304,12 @@
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-06-07 04:07:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-09 03:56:35 +0000"
     },
     "done": true
   },
@@ -1338,6 +1439,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-06-09 03:47:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-06-07 04:12:50 +0000"
@@ -1386,6 +1493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-06-09 03:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-06-07 05:33:45 +0000"
@@ -1422,6 +1535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:23:35 +0000"
@@ -1437,6 +1556,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-08 17:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
     },
     "done": true
   },
@@ -1529,6 +1654,7 @@
       "cooked_porkchop": "2025-06-08 04:26:12 +0000",
       "chicken": "2025-06-08 07:22:04 +0000",
       "cooked_mutton": "2025-06-07 04:19:58 +0000",
+      "sweet_berries": "2025-06-09 04:03:27 +0000",
       "cooked_beef": "2025-06-08 07:23:57 +0000",
       "baked_potato": "2025-06-08 03:54:17 +0000",
       "potato": "2025-06-08 17:10:54 +0000",
@@ -1541,6 +1667,7 @@
       "melon_slice": "2025-06-08 03:24:43 +0000",
       "golden_carrot": "2025-06-08 07:14:15 +0000",
       "cooked_chicken": "2025-06-08 02:56:06 +0000",
+      "mushroom_stew": "2025-06-09 03:31:02 +0000",
       "cod": "2025-06-07 05:45:29 +0000"
     },
     "done": false
@@ -1983,6 +2110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-09 03:54:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-06-08 16:50:57 +0000"
@@ -2079,6 +2212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-06-08 04:50:09 +0000"
@@ -2154,6 +2293,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-06-07 04:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
     },
     "done": true
   },
@@ -2283,6 +2428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 03:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-06-08 04:23:22 +0000"
@@ -2367,6 +2518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-06-09 03:47:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:23:35 +0000"
@@ -2439,6 +2596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-06-07 04:23:35 +0000"
@@ -2460,6 +2623,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-06-08 07:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-06-09 03:54:43 +0000"
     },
     "done": true
   },
@@ -2508,6 +2677,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-06-08 04:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-06-09 03:49:10 +0000"
     },
     "done": true
   },
