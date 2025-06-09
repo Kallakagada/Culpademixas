@@ -1074,3 +1074,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 02:45:02.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
 [09Jun2025 02:46:23.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jun2025 02:46:23.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:46:32.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 02:46:41.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 02:48:36.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 02:49:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 02:49:17.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 02:49:19.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 02:49:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 02:49:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was shot by Skeleton
+[09Jun2025 02:50:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 02:50:58.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
+[09Jun2025 02:51:13.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis has made the advancement [Cover Me with Diamonds]
+[09Jun2025 02:51:23.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:51:23.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 02:51:46.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 02:51:51.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 02:52:48.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 02:52:54.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 02:54:39.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 02:54:51.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 02:55:06.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TumaridoTop1 has made the advancement [Take Aim]
+[09Jun2025 02:55:31.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> donde estas ?
+[09Jun2025 02:55:54.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> abalo
+[09Jun2025 02:55:59.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> xd
+[09Jun2025 02:56:23.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 02:56:23.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:00:13.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
+[09Jun2025 03:01:23.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:01:23.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jun2025 03:02:42.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:02:59.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was slain by Skeleton
+[09Jun2025 03:02:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:03:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:04:30.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:04:36.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:04:44.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:05:39.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 03:05:51.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 03:06:23.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jun2025 03:06:23.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-09 03:03:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-29 20:10:40 +0000"
@@ -395,6 +401,7 @@
       "chicken": "2025-06-06 20:02:58 +0000",
       "cooked_mutton": "2025-06-07 05:18:16 +0000",
       "cooked_beef": "2025-06-07 03:20:45 +0000",
+      "chorus_fruit": "2025-06-09 02:53:09 +0000",
       "beef": "2025-05-29 20:02:10 +0000",
       "baked_potato": "2025-06-08 04:10:11 +0000",
       "apple": "2025-06-07 05:15:40 +0000",
@@ -878,6 +885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 02:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-06-08 04:04:02 +0000"
@@ -1031,6 +1044,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-06-08 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-09 03:03:14 +0000"
     },
     "done": true
   },
@@ -1340,6 +1359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 02:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-06-07 03:46:14 +0000"
@@ -1469,6 +1494,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-06-07 04:57:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-06-09 02:56:19 +0000"
     },
     "done": true
   },
@@ -1822,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-09 02:55:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-06-07 05:27:31 +0000"
@@ -2035,6 +2072,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-07 03:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-09 03:03:14 +0000"
     },
     "done": true
   },
