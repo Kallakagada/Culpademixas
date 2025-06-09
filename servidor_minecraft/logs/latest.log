@@ -305,3 +305,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:25:26.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
 [09Jun2025 05:31:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
 [09Jun2025 05:31:35.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 05:51:53.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 05:52:05.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 05:53:20.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 05:54:09.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 05:54:37.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 05:55:22.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Creative Mode]
+[09Jun2025 05:55:31.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was slain by entity.sackman.sackman
+[09Jun2025 05:55:32.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Spectator Mode]
+[09Jun2025 05:55:45.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Set own game mode to Survival Mode]
+[09Jun2025 05:55:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [TumaridoTop1: Teleported Alexis to TumaridoTop1]
