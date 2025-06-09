@@ -295,3 +295,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jun2025 05:01:37.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> oeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 [09Jun2025 05:06:03.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alexis was killed by Potion using magic
 [09Jun2025 05:06:36.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alexis> teletransportamne
+[09Jun2025 05:11:02.529] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Jun2025 05:11:02.529] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
+[09Jun2025 05:13:10.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> mis botas
+[09Jun2025 05:13:17.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TumaridoTop1> yara xD
